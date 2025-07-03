@@ -118,3 +118,8 @@ hy2://44ee8d70-309d-11eb-a8bf-f23c91cfbbc9@b7bf5dae-sytz40-tc0fos-8skf.hy2.gotoc
 hy2://861726bb-c61a-b0e0-99fa-5ddfdcf21902@1687f8c5-sxjog0-ta5nd4-e06r.hy2.gotochinatown.net:8443?sni=1687f8c5-sxjog0-ta5nd4-e06r.hy2.gotochinatown.net#US_15
 hy2://f93486ce-cc84-11ed-9e98-f23c913c8d2b@a63c255f-sytz40-t2whio-1jcwu.hy2.gotochinatown.net:8443#US_33
 hy2://ee393141-d1a0-4cdd-ae18-57fd8dbdcaf0@107.175.145.72:24910?obfs=salamander&obfs-password=fWQ4LCfAYiKaEVRe&insecure=1&sni=www.apple.com#US_37
+vless://b11f17c8-c544-45f7-ad98-b039fc64e003@pq.aws58.yydjc.top:443?security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=T1qm-lWyGwT_sYy7KsoVsIH20qVR3W79wHmElqjdgz4&sid=c5905f97&type=tcp&flow=xtls-rprx-vision&encryption=none#SG-1
+vless://b11f17c8-c544-45f7-ad98-b039fc64e003@pq.aws59.yydjc.top:443?security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=mnshlVo5tkzYbmEB9xrgmUHwYETnXLAjjlGAssqaDGI&sid=436299c6&type=tcp&flow=xtls-rprx-vision&encryption=none#SG-2
+vless://b11f17c8-c544-45f7-ad98-b039fc64e003@pq.aws60.yydjc.top:443?security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=xjWkdgeetCnB1-kHqwVnAaSUqg4qK9TFWQlamW8FSRI&sid=e2e15173&type=tcp&flow=xtls-rprx-vision&encryption=none#SG-3
+vless://b11f17c8-c544-45f7-ad98-b039fc64e003@pq.aws61.yydjc.top:443?security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=9076EbD5vM8kATc_08QvDiqZF5KHTM_LaSrMOvcwfHw&sid=57b7989c&type=tcp&flow=xtls-rprx-vision&encryption=none#SG-4
+vless://b11f17c8-c544-45f7-ad98-b039fc64e003@pq.aws62.yydjc.top:443?security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=kzlqssyYFyVB-nGMDTQXITmiEZNUF4S_ygmuTJ2BEA8&sid=1f922969&type=tcp&flow=xtls-rprx-vision&encryption=none#SG-5
